@@ -1,0 +1,54 @@
+logic_generated:
+  inv_6x:
+    bbox:
+    - - 0
+      - 0
+    - - 1640
+      - 2000
+    cellname: inv_6x
+    libname: logic_generated
+    pins:
+      I:
+        layer:
+        - Metal3
+        - pin
+        name: I
+        netname: I
+        xy:
+        - - 165
+          - 790
+        - - 245
+          - 1210
+      O:
+        layer:
+        - Metal3
+        - pin
+        name: O
+        netname: O
+        xy:
+        - - 1190
+          - 490
+        - - 1270
+          - 1510
+      VDD:
+        layer:
+        - Metal2
+        - pin
+        name: VDD
+        netname: VDD
+        xy:
+        - - 0
+          - 1880
+        - - 1640
+          - 2120
+      VSS:
+        layer:
+        - Metal2
+        - pin
+        name: VSS
+        netname: VSS
+        xy:
+        - - 0
+          - -120
+        - - 1640
+          - 120
